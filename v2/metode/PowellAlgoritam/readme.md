@@ -18,7 +18,7 @@ U svakoj iteraciji se vrši:
 
 <h1 align='center'> Objasnjenje algoritma [slikovito] </h1>
 
-Pocinjemo za pretpostavkom x0 i sa 2 razlicita pravca
+Pocinjemo sa pretpostavkom x0 i sa 2 razlicita pravca
 <p align="center">
   <img width="600" height="400" src="https://i.ibb.co/5s7R7xC/1.png">
 </p>
