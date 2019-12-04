@@ -8,7 +8,7 @@
 
 <h2> GradijentniMetod </h2>
 
- - algoritam slikovito objasnjen 
+ - objasnjenje algoritma u readme.md
  - algoritam napisan u fajlu grad_descent.m
  - dat je i test poziva algoritma u fajlu test
  
