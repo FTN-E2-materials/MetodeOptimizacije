@@ -2,9 +2,9 @@ function [ f ] = ogranicenje2(x)
     c=10000;
 
     if ((-3*x(1) - 2*x(2)+6) <= 0)
-        g1=0;
+        g1=0;                               % ne kaznjavamo ga jer je ispod -> sve okej
     else
-        g1=c*(-3*x(1) - 2*x(2) + 6).^2;
+        g1=c*(-3*x(1) - 2*x(2) + 6).^2;     % crnu pogibiju mu dajemo (kaznu)           
     end
     if (((-x(1) + x(2) - 3) <= 0))
         g2=0;
@@ -23,4 +23,5 @@ function [ f ] = ogranicenje2(x)
     end
     
     f = fun(x) + g1 + g2 + g3 + g4;
+    
 end
