@@ -1,7 +1,7 @@
 <h1 align = "center"> Zadaci </h1>
 
 ## Zadatak 1
-Skicirati **Rosenbrock** funkciju 
+Skicirati **Rosenbrock** funkciju za 5 promenljivih u intervalu [-5,5]
 <p align="left">
   <img width="375" height="81" src="https://i.ibb.co/ch5nmf0/Rosenbrock-function.png">
 </p>
